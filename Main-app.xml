@@ -35,6 +35,6 @@
     <icon></icon>
     <iPhone>
         <requestedDisplayResolution>standard</requestedDisplayResolution>
-        <InfoAdditions><![CDATA[<key>UIDeviceFamily</key><array><string>1</string><string>2</string></array>]]></InfoAdditions>
+        <InfoAdditions><![CDATA[<key>UIDeviceFamily</key><array><string>1</string></array>]]></InfoAdditions>
     </iPhone>
 </application>
