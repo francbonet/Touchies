@@ -1,0 +1,1 @@
+﻿package {	import flash.display.BitmapData;	/**	 * @author francesc	 */	public class ImagenTest extends BitmapData {				public function ImagenTest(width : int, height : int, transparent : Boolean = true, fillColor : uint = 4.294967295E9 ) {			super(width, height, transparent, fillColor);		}					}}
